@@ -1,0 +1,6 @@
+{
+  "name": "Russia Explorer – Russia Travel & Tourism Packages from India",
+  "description": "Complete Russia tour packages from India. Compare flights, luxury & budget hotels, airport cabs, iconic tourist attractions, and customize your round-trip Russian holiday under ₹5,00,000.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
